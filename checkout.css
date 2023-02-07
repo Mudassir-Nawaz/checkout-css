@@ -5,33 +5,33 @@ html {
 }
 
 .modal.page {
-    background-color: #33a79c;  /*===BACKGROUND COLOR===*/
+    background-color: #32947F;  /*===BACKGROUND COLOR===*/
 }
 /*=============================*/
 
 /*=======HEADER SETTINGS=======*/
 .top-header {
-    background-color: white;  /*===HEADER BACKGROUND COLOR===*/
+  background-color: white;  /*===HEADER BACKGROUND COLOR===*/
   border-radius:6px;  /*===ROUNDED CORNER SETTINGS===*/
 }
 
 .top-header .timer-row__progress-bar {
   border-top: 1px solid #FFD41D;
     border-bottom: 1px solid #FFD41D;
-    background: #33a79c;    /*===PROGRESS BAR COLOR===*/
+    background: #32947F;    /*===PROGRESS BAR COLOR===*/
 }
 
 .top-header .timer-row {
     border-top: 1px solid #FFD41D;  /*===COLORED LINE ABOVE PROGRESS BAR===*/
   border-bottom: 1px solid #FFD41D; /*===COLORED LINE ABOVE PROGRESS BAR===*/
-    background: #33a79c;  /*===PROGRESS BAR BACKGROUND COLOR===*/
+    background: #32947F;  /*===PROGRESS BAR BACKGROUND COLOR===*/
 }
 
 /*============================*/
 
 /*=====PAY WITH / AMOUNTS=====*/
 .line-items {
-    background-color: #33a79c;  /*===BACKGROUND COLOR===*/
+    background-color: #32947F;  /*===BACKGROUND COLOR===*/
     color: white !important;   /*===TEXT COLOR===*/
   padding-top: 15px;
     padding-bottom: 10px;
@@ -50,7 +50,7 @@ html {
 
 /*=======PAYMENT TABS=======*/
 .payment-tabs__slider {
-  background: #33a79c;  /*===SLIDER COLOR===*/
+  background: #32947F;  /*===SLIDER COLOR===*/
 }
 
 .payment-tabs {
@@ -64,14 +64,14 @@ html {
 /*===OPEN IN WALLET BUTTON===*/
 .action-button {
     color: #fff !important;
-    background-image: linear-gradient(to bottom, #33a79c, #39c4b6);   /*===BUTTON BACKGROUND COLOR GRADIENT===*/
+    background-image: linear-gradient(to bottom, #32947F, #39c4b6);   /*===BUTTON BACKGROUND COLOR GRADIENT===*/
   border-color:white;  /*===BUTTON BORDER COLOR===*/
   box-shadow: 0px 0px 15px -3px #000000;  /*===DROP SHADOW SETTINGS===*/
   border-radius: 6px;   /*===ROUNDED CORNER SETTINGS===*/
 }
 
 .action-button:hover {
-    background-image: linear-gradient(to top, #33a79c, #39c4b6);  /*===HOVER BUTTON BACKGROUND COLOR GRADIENT===*/
+    background-image: linear-gradient(to top, #32947F, #39c4b6);  /*===HOVER BUTTON BACKGROUND COLOR GRADIENT===*/
   border-color:#FFD41D; /*===BUTTON BORDER COLOR===*/
 }
 /*============================*/
@@ -79,18 +79,18 @@ html {
 /*===BOLT/NODE INFO BUTTONS===*/
 .btnGroupLnd {
   box-shadow: 0px 0px 15px -3px #000000;  /*===DROP SHADOW SETTINGS===*/
-  background-color:#33a79c; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+  background-color:#32947F; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
   border-color:#fff;  /*===BUTTON BORDER COLOR===*/
   border-radius: 6px; /*===ROUNDED CORNER SETTINGS===*/
 }
 
 .btnGroupLnd button {
-  background-color:#33a79c; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+  background-color:#32947F; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
   border-color: #fff; /*===BUTTON BORDER COLOR===*/
 }
 
 .btnGroupLnd button.active {
-  background-color:#33a79c; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
+  background-color:#32947F; /*===BUTTON BACKGROUND COLOR (IF NO GRADIENT IS WANTED DELETE LINE ABOVE THIS)===*/
   border-color: #fff;   /*===BUTTON BORDER COLOR===*/
 }
 /*===========================*/
@@ -98,16 +98,16 @@ html {
 /*=====CURRENCY DROPDOWN=====*/
 .payment__currencies {
   border-radius:6px;  /*===ROUNDED CORNER SETTINGS===*/
-  background-color: #33a79c; /*===BACKGROUND COLOR DROPDOWN MENU===*/
+  background-color: #32947F; /*===BACKGROUND COLOR DROPDOWN MENU===*/
 }
 
 .payment__currencies:hover {
-  background: #33a79c; /*===MENU HOVER HIGHLIGHT COLOR===*/
+  background: #32947F; /*===MENU HOVER HIGHLIGHT COLOR===*/
 }
 
 .currency-selection {
     background-color: white;  /*===BACKGROUND COLOR===*/
-    border-bottom: 0px solid #33a79c;
+    border-bottom: 0px solid #32947F;
     color: black;  /*===TEXT COLOR===*/
     padding-top: 15px;
     padding-bottom: 10px;
@@ -121,7 +121,7 @@ html {
 }
 
 .vexmenu  {
-  background-color:#33a79c; /*===BACKGROUND COLOR===*/
+  background-color:#32947F; /*===BACKGROUND COLOR===*/
 }
 
 .vexmenuitem:hover {
@@ -172,7 +172,7 @@ span {
 
 /*=====LANGUAGE SELECT=====*/
 #prettydropdown-DefaultLang ul {
-  color: #33a79c !important; /*  ===TEXT COLOR=== */
+  color: #32947F !important; /*  ===TEXT COLOR=== */
   background-color: white !important;   /*===BACKGROUND COLOR===*/
 }
 /*===========================*/
@@ -204,7 +204,7 @@ span {
 }
 
 .separatorGem {
-  background:#33a79c; /*===GEM ICON COLOR===*/
+  background:#32947F; /*===GEM ICON COLOR===*/
 }
 /*===========================*/
 
