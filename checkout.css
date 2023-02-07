@@ -17,10 +17,6 @@ html {
   border-radius:6px;  /*===ROUNDED CORNER SETTINGS===*/
 }
 
-.qr_currency_icon {
-    display: none !important;
-}
-
 .top-header .timer-row__progress-bar {
   border-top: 1px solid #185749;
     border-bottom: 1px solid #185749;
