@@ -1,38 +1,40 @@
 html {
-    background-color: #111316 !important;
+    background-color: white !important;
   }
   
   .modal.page {
-    background-color: #111316;
+    background-color: #eeeeee;
   }
   
-  .top-header {
-    background-color: #15181c;
+
+  .top-header > .header {
+    background-color: transparent;
   }
   
   .top-header .timer-row__progress-bar {
-    background: #00c3ff;
+    background-color: #fff;
+    background: #2BB673;
   }
   
   .top-header .timer-row {
-    background: #1187c1;
+    background: #2BB673;
   }
   
   .payment-tabs__slider {
-    background: #00c3ff;
+    background: #2BB673;
   }
   
   .action-button {
     color: #fff !important;
-    background-image: linear-gradient(to right, #00c3ff, #1187c1);
+    background-color: #2BB673;
   }
   
   .action-button:active {
-    background-image: linear-gradient(to right, #00c3ff, #1187c1);
+    /* background-image: linear-gradient(to right, #00c3ff, #1187c1); */
   }
   
   .invoice {
-    background-color: #343f4c;
+    background-color: #fff;
   }
   
   .expired__body {
@@ -40,9 +42,9 @@ html {
   }
   
   .currency-selection {
-    background-color: #15181c;
-    border-bottom: 1px solid #565d6e;
-    color: #fff;
+    background-color: #fff;
+    border-bottom: 1px solid #2BB673;
+    color: #;
     padding-top: 15px;
     padding-bottom: 15px;
     height: auto;
